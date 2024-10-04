@@ -5,11 +5,13 @@
 # urls
 ![image](https://github.com/user-attachments/assets/d09cbf21-b98f-4a47-a971-d6109ee7f826)
 # cliente
-![image](https://github.com/user-attachments/assets/1c401c5b-3178-4a7c-851a-7f6ba1c4d02f)
+![image](https://github.com/user-attachments/assets/fd479830-fd5e-42ff-a282-b7b5b285ead1)
+ba1c4d02f)
 # productos
-![image](https://github.com/user-attachments/assets/c0484cab-70ce-4538-b1bf-726f175d59a1)
+![image](https://github.com/user-attachments/assets/24ef6447-cb8a-4bac-a4b9-884bf9808c1c)
 # empleados
-![image](https://github.com/user-attachments/assets/63e49c46-5fcc-492e-ba4d-1b31570f0556)
+![image](https://github.com/user-attachments/assets/76b5da32-f026-49ca-83bf-640c709d02a0)
 # sucursales 
-![image](https://github.com/user-attachments/assets/857f24ff-26e9-4139-981f-b1bdae6c3534)
+![image](https://github.com/user-attachments/assets/754c55a5-fc03-4f1d-a2e4-786ea40d9fe9)
+
 
